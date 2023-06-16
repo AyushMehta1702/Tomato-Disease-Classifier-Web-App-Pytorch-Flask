@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tomato Plant Disease Classifier</title>
+</head>
+<body>
+    <h1>Tomato Plant Disease Classifier</h1>
+    <form action="/" method="post" enctype=multipart/form-data>
+        <input type="file" name="image"><br><br>
+        <input type="submit" value="Predict">
+    </form>
+    {% if image_location %}
+        <img src="{{ image_location }}" width="300">
+        <h2>Prediction: {{ prediction }}</h2>
+    {% endif %}
+</body>
+</html>

@@ -54,7 +54,8 @@ This web application will be deployed on Azure using Azure App Service. (ASAP)
    
 6. Upload an Image and Click on 'Predict'
 
-<img width="372" alt="image" src="https://github.com/AyushMehta1702/Tomato-Disease-Classifier-Web-App-Pytorch-Flask/assets/62299047/326e4558-05fd-43a6-a210-59a085f65cc4">
+![image](https://github.com/AyushMehta1702/Tomato-Disease-Classifier-Web-App-Pytorch-Flask/assets/62299047/1e4272b4-50af-4291-8cc9-01d6675835c7)
+
 
 
 ## Contact
